@@ -29,3 +29,8 @@ git log --oneline
 ```sh
 git checkout "имя ветки"
 ```
+
+Просмотр веток:
+```sh
+git branch
+```
