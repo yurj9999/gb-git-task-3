@@ -35,6 +35,11 @@ git log --oneline
 git checkout "имя ветки"
 ```
 
+Переход по коммитам:
+```sh
+git checkout "хэш коммита"
+```
+
 Просмотр веток:
 ```sh
 git branch
