@@ -24,3 +24,8 @@ git log
 ```sh
 git log --oneline
 ```
+
+Смена ветки:
+```sh
+git checkout "имя ветки"
+```
