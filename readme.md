@@ -59,3 +59,8 @@ git diff
 ```sh
 git status
 ```
+
+Откат изменений в файле:
+```sh
+git checkout "имя файла"
+```
