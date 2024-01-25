@@ -25,6 +25,11 @@ git commit --amend
 git log
 ```
 
+Вывод графа истории коммитов:
+```sh
+git log --graph
+```
+
 Вывод истории коммитов в одну строку:
 ```sh
 git log --oneline
